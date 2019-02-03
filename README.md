@@ -19,9 +19,9 @@ root@epicRR:~$ python3 PostScanner.py -h
  |_|                Epic_R_R                             
 
 A Simple port scanner that works!! (c) Epic_R_R<SaLaR>
-	Example usage: python port_scanner.py example.com 1 1000
+	Example usage: python3 port_scanner.py example.com 1 1000
 	The above example will scan the host 'example.com' from port 1 to 1000
-	To scan most common ports, use: python port_scanner.py example.com
+	To scan most common ports, use: python3 port_scanner.py example.com
 ++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
 
 optional arguments:
